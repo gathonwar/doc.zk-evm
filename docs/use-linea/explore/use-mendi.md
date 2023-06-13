@@ -50,6 +50,6 @@ Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app
 1. Select USDC/USDT/WETH to borrow from the protocol and click on it.
 2. Enter the amount you want to borrow.
 
-![Borrow](../../assets/mendi/borrow.png)
+![Borrow](../../assets/mendi/borrow2.png)
 
 1. Click  **Borrow** to confirm and approve the transaction.
