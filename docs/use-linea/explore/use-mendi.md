@@ -30,7 +30,10 @@ Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app
    ![Supply Amount](../../assets/mendi/supply_amount.png)
 
 1. Click **Approve** and check the details.
-1. Click  **Supply** to confirm and approve the transaction.
+
+   ![Supply Approve](../../assets/mendi/supply_approve.png)
+
+3. Click  **Supply** to confirm and approve the transaction.
 
 ## Borrow tokens
 
