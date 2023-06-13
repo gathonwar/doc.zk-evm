@@ -32,7 +32,7 @@ Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app
 1. Click **Approve** and check the details.
 1. Click  **Supply** to confirm and approve the transaction.
 
-## Borrow tokens[](https://docs.linea.build/use-linea/explore/use-uniswap#swap-tokens)
+## Borrow tokens
 
 1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the Linea network in your MetaMask wallet.
 
