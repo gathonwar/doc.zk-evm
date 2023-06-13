@@ -3,7 +3,7 @@ title: Use Mendi Finance Lending Protocol
 sidebar_position: 1
 ---
 
-# Use Mendi Finance
+# Use Mendi Finance Lending Protocol
 
 Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app](https://testnet.mendi.finance/) to supply collateral and borrow against it.
 
