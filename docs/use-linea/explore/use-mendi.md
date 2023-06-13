@@ -9,7 +9,7 @@ Mendi Finance lending protocol is deployed on Linea testnet. Use the [Mendi app
 
 ## Supply collateral
 
-1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the Linea network in your MetaMask wallet.
+1. Navigate to the [Mendi app](https://testnet.mendi.finance/) and select the Linea network in your MetaMask wallet. (You might need to click on *show/hide test networks* to have testnets appear in the list)
 
    ![Metamask Linea testnet](../../assets/mendi/metamask.png)
 
